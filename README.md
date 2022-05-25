@@ -5,7 +5,7 @@ We found that when the trt_pose model was dealing with videos of people who fell
 2. Although the original model has done affine transformation (data augmentation), the augmented angle is too small.
  
 ## Method
-Add more augmented dataset (rotate the image in specific eight directions) into original training dataset.
+Add more augmented dataset (rotate the image in specific eight directions) into original training dataset by modifying data loader.
 
 ## Environment
 - Pytorch
