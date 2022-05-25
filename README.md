@@ -7,7 +7,7 @@ Customized trt_pose training dataset (data loader, data augmentation).
 ## Environment
 - Pytorch
 - Python
-- Please follow reference README
+- Please follow the README file of the referenced website below
 ## Reference
 1. https://github.com/NVIDIA-AI-IOT/trt_pose
 
