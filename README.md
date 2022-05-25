@@ -6,6 +6,7 @@ We found that when the trt_pose model was dealing with videos of people who fell
  
 ## Method
 Add more augmented dataset (rotate the image in specific eight directions) into original training dataset by modifying data loader.
+Then, start transfer learning by using pre-trained trt_pose model
 
 ## Environment
 - Pytorch
