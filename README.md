@@ -13,8 +13,8 @@ Add more augmented dataset (rotate the image in specific eight directions) into 
 - Please follow the README file of the referenced website below
 
 ## Usage
-- Start training: run train_eight_direction.py
-- 
+- Modify data loader => coco_eight_direction.py
+- Start training => run train_eight_direction.py
 
 ## Reference
 1. https://github.com/NVIDIA-AI-IOT/trt_pose
