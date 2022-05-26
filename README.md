@@ -11,7 +11,7 @@ Then, start transfer learning by using pre-trained trt_pose model
 ## Environment
 - Pytorch
 - Python
-- Please follow the README file of the referenced website below
+- Please follow the README file inside the referenced website below
 
 ## Usage
 - Modify data loader => coco_eight_direction.py
