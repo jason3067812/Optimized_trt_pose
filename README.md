@@ -5,7 +5,7 @@ When the trt_pose model was dealing with videos of falling people, some frames o
 2. Although the original model has done affine transformation (data augmentation), the augmented angle is too small.
  
 ## Method
-Add more augmented dataset (rotate the image in specific eight directions) into original training dataset by modifying data loader.
+Add more augmented dataset (rotate the image in specific eight directions) into original training dataset by modifying data loader.<br>
 Then, start transfer learning by using pre-trained trt_pose model
 
 ## Environment
